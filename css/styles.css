@@ -19,10 +19,37 @@
   background-color: rgb(224, 61, 74);
 }
 
-.div55 {
-  height: auto;
-  background-color: rgb(57, 55, 55);
+.div5{
+  line-height: 100%;
+  width: 100%;
 }
+
+.div55 {
+  
+  background-color: rgb(57, 55, 55);
+  border-top: 5px solid red;
+  
+}
+
+.colBlack a {
+ 
+ color: gray;
+ 
+
+}
+
+.colBlack p {
+  text-align: left;
+  color: grey;
+}
+
+.colBlack p.white {
+
+color: white;
+
+}
+
+
 
 .col {
   margin-top: 50px;
@@ -53,4 +80,32 @@
 
 .div6 {
   background-color: rgb(40, 37, 37);
+  
+}
+
+
+
+.div66{
+  /* padding-right: 900px; */
+  text-align: left;
+  
+}
+
+.navbar-brand {
+ font-weight:bold;
+ font-size:200%
+ 
+}
+
+
+.bt {
+
+  padding: 6px 15px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  border: solid 2px white;
+  color: aliceblue;
 }
