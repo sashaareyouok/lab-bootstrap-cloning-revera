@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  margin-left: 200px;
+}
+
+#navbarNavDropdown {
+  margin-right: 250px;
+}
+
+.div33 {
+  height: auto;
+  background-color: rgb(224, 61, 74);
+}
+
+.div55 {
+  height: auto;
+  background-color: rgb(57, 55, 55);
+}
+
+.col {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+}
+.carousel-caption {
+  margin-bottom: 200px;
+}
+
+.col4 {
+  width: 300px;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 22%;
+  padding: 25px;
+}
+
+.textLatest {
+  font-weight: bold;
+}
+
+.div6 {
+  background-color: rgb(40, 37, 37);
+}
